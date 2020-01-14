@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Virtuelle Assistenz</title>
+    <link>http://example.org/post/</link>
+    <description>Recent content in Posts on Virtuelle Assistenz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 12 Jan 2020 18:36:08 +0100</lastBuildDate>
+    
+	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mein erster Post</title>
+      <link>http://example.org/post/2020/01/01_erster_post/</link>
+      <pubDate>Sun, 12 Jan 2020 18:36:08 +0100</pubDate>
+      
+      <guid>http://example.org/post/2020/01/01_erster_post/</guid>
+      <description>Meine Überschrift Subtitle Hier kommt mein Text.
+ Punkt 1 Punkt 2   erster Punkt fett zweiter Punkt kursiv dritter Punkt auch kursiv vierter Punkt fünfter Punkt  Link zu meinem Artikel
+Code Schreibe ./hugo new post/mein_post.md in den Editor
+ ein Zitat
+ mehrere Zeilen Zitat mit Einrückung  </description>
+    </item>
+    
+  </channel>
+</rss>
