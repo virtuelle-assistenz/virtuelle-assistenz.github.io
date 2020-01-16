@@ -40,7 +40,7 @@ Code Schreibe ./hugo new post/mein_post.md in den Editor
       
       <guid>http://virtuelle-assistenz.github.io/2020/01/sunday/-noch-ein-post/</guid>
       <description>[Link zu meinem Post] ()
-    </description>
+  </description>
     </item>
     
   </channel>
